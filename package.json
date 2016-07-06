@@ -1,0 +1,15 @@
+{
+  "name": "RNSimilar",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "react": "^0.14.8",
+    "react-native": "^0.25.1",
+    "react-native-button": "^1.6.0",
+    "react-native-fetch-blob": "^0.4.0",
+    "react-native-image-picker": "^0.18.15"
+  }
+}
